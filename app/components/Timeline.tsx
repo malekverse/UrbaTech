@@ -177,4 +177,3 @@ function TimelineEvent({
     </motion.div>
   )
 }
-
